@@ -1,0 +1,50 @@
+body {
+    background-color:azure;
+}
+header{
+    background-color: aqua;
+}
+
+div{
+    background-image: url('https://imgs.search.brave.com/P_Hu5sSHAIqsahieFFVkQxo1af5i31mBnF4EzPVZJ5Y/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi92YXJp/ZWRhZC1kZS1wb3N0/cmVzLXktZHVsY2Vz/LXZhY2FjaW9uZXMt/bmF2aWRhZC10cmF2/JUMzJUE5cy1sYS1m/cm9udGVyYS1wYXJ0/ZS1zdXBlcmlvci12/aXN0YS1zb2JyZS11/bi1mb25kby1tYWRl/cmEtYmxhbmNvLWJh/bmRlcmEtZWwtMjAx/NTk5MDQyLmpwZw');
+    opacity: 0.4;
+}
+
+nav h2{
+    color: rgba(0, 0, 0, 0.881);
+    font-size:large;
+    opacity: bold;
+}
+h1{
+    background-color: bisque;
+    color:rgb(62, 42, 16);
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    font-size:medium;
+    font-weight: bold;
+    font-style: oblique ;
+}
+
+h3{
+    font-size: larger;
+    font-family: cursive;
+}
+
+p{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 700;
+}
+
+aside{
+    background-color: aqua;
+    color: rgb(63, 13, 63);
+}
+
+footer{
+    background-color: aquamarine;
+}
